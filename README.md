@@ -1,2 +1,2 @@
-# awesome
-Awesome In Java and Architect
+# Initial page
+
